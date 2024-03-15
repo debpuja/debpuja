@@ -1,13 +1,12 @@
 <h1>Hi, I'm Puja!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab (GOTTA DOOO)](https://www.youtube.com/watch?v=MHsI8hJmggI)</b>
 
-<h2>Certificates</h2>
+<h2>📄 Certificates</h2>
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/YXYL79UPFX2D)
-
 
 <h2>📺 YouTube Videos</h2>
 -Active Directory Home Lab Walkthrough
