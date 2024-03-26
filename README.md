@@ -2,23 +2,14 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab (GOTTA DOOO)](https://www.youtube.com/watch?v=MHsI8hJmggI)</b>
+- [Active Directory Home Lab (Write up for project is in progress.)]([https://www.youtube.com/watch?v=MHsI8hJmggI](https://github.com/debpuja/Active-Directory-Bulk-User-Creation))</b>
 
 <h2>📄 Certificates</h2>
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/YXYL79UPFX2D)
 
-<h2>📺 YouTube Videos</h2>
--Active Directory Home Lab Walkthrough
-
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/#[url]
-[youtube]: https://www.youtube.com/c/#[url]
-[instagram]: https://www.instagram.com/#[url]/
 [linkedin]: https://linkedin.com/in/debpuja
