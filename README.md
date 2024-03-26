@@ -2,7 +2,7 @@
 
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab (Write up for project is in progress.)]([https://www.youtube.com/watch?v=MHsI8hJmggI](https://github.com/debpuja/Active-Directory-Bulk-User-Creation))</b>
+- [Active Directory Lab -in progress]([https://www.youtube.com/watch?v=MHsI8hJmggI](https://github.com/debpuja/Active-Directory-Bulk-User-Creation))
 
 <h2>📄 Certificates</h2>
 
