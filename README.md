@@ -3,7 +3,7 @@
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Lab](https://github.com/debpuja/Active-Directory-Bulk-User-Creation/blob/main/Active_Directory_Lab.md)
-- [Period Tracker App](https://github.com/debpuja/Period-Tracker-App)
+- [Period Tracker App](https://debpuja.github.io/Period-Tracker-App/)
 
 <h2>📄 Certificates</h2>
 
