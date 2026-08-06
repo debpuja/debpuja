@@ -1,6 +1,6 @@
 <h1>Hi, I'm Puja!
 
-<h2>👩‍💻 Cybersecurity Projects:</h2>
+<h2>👩‍💻 Cybersecurity and Misc Projects:</h2>
 
 - [Active Directory Lab](https://github.com/debpuja/Active-Directory-Bulk-User-Creation/blob/main/Active_Directory_Lab.md)
 - [Period & Wellness Tracker App](https://debpuja.github.io/Period-Tracker-App/)
