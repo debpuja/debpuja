@@ -3,12 +3,10 @@
 <h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Lab](https://github.com/debpuja/Active-Directory-Bulk-User-Creation/blob/main/Active_Directory_Lab.md)
-- Penetration Testing Lab using KALI LINUX (In-progress!)
 
 <h2>📄 Certificates</h2>
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/YXYL79UPFX2D)
-- AWS Certified Solutions Architect Associate (In-progess!)
 
 <h2> 🤳 Connect with me:</h2>
 
